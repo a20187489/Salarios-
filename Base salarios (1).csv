@@ -1,0 +1,115 @@
+﻿ID empleado,Apellido,Nombre,Sexo,Seccional,Facultad,Cargo,Salario,Fch comienzo,Fch nacimiento
+1968,Burgos,Jeronimo,Masculino,Palmira,Administración,Administrativo,"$3,200,000 ",5/04/1982,28/09/1951
+1674,Villegas,Estefania,Femenino,Palmira,Administración,Docente,"$3,200,000 ",25/03/1992,17/01/1964
+1516,Fernandez,Guillermo,Masculino,Palmira,Administración,Docente,"$4,500,000 ",6/03/1985,26/06/1963
+1330,Ramirez,Eliana,Femenino,Palmira,Administración,Docente,"$3,200,000 ",14/02/1989,17/05/1964
+1657,Carmona,Jose,Masculino,Palmira,Administración,Docente,"$3,200,000 ",6/12/1987,10/10/1963
+1573,De santis,Marcela,Femenino,Palmira,Administración,Aux. Administrativo,"$1,500,000 ",7/07/1988,31/05/1960
+1658,Franco,Daniela,Femenino,Palmira,Administración,Docente,"$3,200,000 ",6/06/1988,14/10/1963
+1078,Cortes,Rafael,Masculino,Palmira,Diseño,Administrativo,"$4,200,000 ",1/04/1986,21/11/1962
+1695,Berrio,Camilo,Masculino,Palmira,Diseño,Docente,"$3,200,000 ",20/10/1984,5/01/1960
+1285,Arias,Francisco,Masculino,Palmira,Diseño,Docente,"$3,200,000 ",27/12/1984,22/12/1962
+1284,Merizalde,Antonio,Masculino,Palmira,Diseño,Docente,"$3,200,000 ",4/01/1985,11/12/1962
+1517,Restrepo,Karen,Femenino,Palmira,Diseño,Aux. Administrativo,"$1,500,000 ",26/02/1985,7/07/1963
+1674,Lemus,David,Masculino,Palmira,Diseño,Docente,"$3,200,000 ",8/04/1990,12/09/1962
+1056,Santana,Javier,Masculino,Monteria,Comunicación,Administrativo,"$5,600,000 ",25/10/1979,24/08/1937
+1977,Saldarriaga,Virginia,Femenino,Monteria,Comunicación,Docente,"$4,200,000 ",9/09/1991,13/10/1960
+1725,Posada,Sergio,Masculino,Monteria,Comunicación,Docente,"$5,600,000 ",2/02/1978,2/06/1954
+1675,Zea ,Jorge,Masculino,Monteria,Comunicación,Docente,"$6,500,000 ",26/10/1981,1/09/1969
+1968,Diaz ,Mariana,Femenino,Monteria,Comunicación,Docente,"$3,200,000 ",1/01/1993,19/05/1969
+1723,Giraldo,Esteban,Masculino,Monteria,Ingeniería,Aux. Administrativo,"$1,350,000 ",6/08/1990,10/05/1965
+1076,Idarraga,Jorge,Masculino,Monteria,Ingeniería,Aux. Administrativo,"$1,200,000 ",30/07/1979,8/09/1940
+1816,Simanca,Alejandro,Masculino,Monteria,Ingeniería,Aux. Administrativo,"$1,600,000 ",8/07/1990,1/09/1969
+1154,Pulgarin,Angelina,Femenino,Monteria,Ingeniería,Administrativo,"$4,100,000 ",7/07/1987,7/11/1955
+1294,Aguirre,Brenda,Femenino,Monteria,Ingeniería,Docente,"$3,200,000 ",6/09/1984,5/09/1954
+1428,Tamayo,Gloria,Femenino,Monteria,Ingeniería,Docente,"$3,200,000 ",12/11/1986,23/03/1958
+1814,Carmona ,Andrea,Femenino,Monteria,Ingeniería,Docente,"$3,200,000 ",4/03/1989,17/08/1969
+1978,Diaz ,Lucero,Femenino,Monteria,Ingeniería,Docente,"$3,200,000 ",5/06/1980,26/09/1967
+1531,Alzate,Angela,Femenino,Monteria,Ingeniería,Técnico,"$2,800,000 ",11/05/1986,19/01/1967
+1931,Arango,Felipe,Masculino,Medellín,Administración,Administrativo,"$2,560,000 ",20/06/1989,28/05/1969
+1932,Garces,Elena,Femenino,Medellín,Administración,Administrativo,"$2,400,000 ",12/06/1989,8/06/1949
+1291,Uribe,Carmen,Femenino,Medellín,Administración,Aux. Administrativo,"$1,350,000 ",26/12/1984,14/04/1956
+1530,Ospina,Daniel,Masculino,Medellín,Administración,Docente,"$1,460,000 ",20/01/1991,15/01/1967
+1152,Peláez,Alberto,Masculino,Medellín,Administración,Docente,"$1,350,000 ",21/01/1990,23/10/1965
+1079,Perez,Elena,Femenino,Medellín,Administración,Docente,"$1,350,000 ",24/03/1986,2/12/1962
+1676,Carmona,Sebastian,Masculino,Medellín,Administración,Docente,"$1,500,000 ",18/10/1981,12/09/1969
+1290,Cifuentes,Oscar,Masculino,Medellín,Administración,Docente,"$1,350,000 ",3/01/1985,3/04/1966
+1961,Jaramillo,Santiago,Masculino,Medellín,Administración,Docente,"$1,350,000 ",5/11/1986,2/04/1965
+1675,Melano,Luis,Masculino,Medellín,Administración,Docente,"$1,350,000 ",17/03/1992,28/01/1964
+1368,Mendez,Tammy,Masculino,Medellín,Administración,Docente,"$1,280,000 ",11/03/1983,8/05/1959
+1153,Ramirez,Tomas,Masculino,Medellín,Administración,Técnico,"$1,350,000 ",13/01/1990,3/11/1965
+1960,Girando,Felipe,Masculino,Medellín,Administración,Aux. Administrativo,"$1,350,000 ",13/11/1986,22/03/1965
+1908,Diez,Patricia,Femenino,Medellín,Administración,Administrativo,"$5,600,000 ",15/05/1984,21/09/1958
+1011,Sierra,Luisa,Femenino,Medellín,Administración,Docente,"$2,700,000 ",3/02/1986,21/11/1964
+1359,Vallejo,Sara,Femenino,Medellín,Diseño,Docente,"$2,300,000 ",9/08/1990,7/06/1960
+1724,Guerrero,Alexandra,Femenino,Medellín,Diseño,Docente,"$2,300,000 ",10/02/1978,22/05/1954
+1923,Guerra,Lisa,Femenino,Medellín,Diseño,Docente,"$2,300,000 ",27/11/1986,7/03/1961
+1794,Rodríguez ,Ana Maria,Femenino,Medellín,Diseño,Docente,"$2,300,000 ",18/12/1984,18/10/1968
+1558,Marulanda,Sofia,Femenino,Medellín,Diseño,Docente,"$2,300,000 ",16/10/1982,26/09/1965
+1949,Palacio,Paula,Femenino,Medellín,Diseño,Docente,"$4,100,000 ",12/10/1981,26/02/1951
+1311,Bermudez,Jesus,Masculino,Medellín,Diseño,Docente,"$3,800,000 ",26/09/1986,13/11/1964
+1906,Toledo,Roberta,Femenino,Medellín,Diseño,Aux. Administrativo,"$1,350,000 ",28/09/1989,2/09/1960
+1656,Arango,Tatiana,Femenino,Medellín,Diseño,Administrativo,"$2,500,000 ",14/12/1987,29/09/1963
+1907,Acevedo,Melina,Femenino,Medellín,Diseño,Administrativo,"$2,600,000 ",20/09/1989,13/09/1960
+1724,Cock,Cristina,Femenino,Medellín,Diseño,Administrativo,"$2,960,000 ",29/07/1990,21/05/1965
+1301,Casadiegos,Manuela,Femenino,Medellín,Diseño,Aux. Administrativo,"$1,350,000 ",6/08/1984,25/06/1965
+1292,Salamanca,Isabel,Femenino,Medellín,Diseño,Administrativo,"$4,350,000 ",20/11/1987,18/04/1956
+1167,Arango,Juan,Masculino,Medellín,Diseño,Administrativo,"$5,600,000 ",18/04/1991,27/06/1970
+1950,Granda,Luisa,Femenino,Medellín,Diseño,Docente,"$4,900,000 ",4/10/1981,9/03/1951
+1792,Arango ,Monica,Femenino,Medellín,Diseño,Técnico,"$2,000,000 ",24/12/1990,3/10/1968
+1977,Arroyave,Federico,Masculino,Medellín,Diseño,Técnico,"$1,300,000 ",13/06/1980,15/09/1967
+1067,Lemos,Dalia,Femenino,Medellín,Diseño,Técnico,"$1,100,000 ",20/09/1987,30/09/1961
+1976,Jaramillo,Ana,Femenino,Medellín,Ingeniería,Aux. Administrativo,"$1,350,000 ",29/04/1991,9/10/1970
+1168,Lema,Maria,Femenino,Medellín,Ingeniería,Aux. Administrativo,"$1,350,000 ",10/04/1991,8/07/1970
+1815,Caro,Diana,Femenino,Medellín,Ingeniería,Administrativo,"$5,600,000 ",25/02/1980,28/08/1959
+1068,Vergara,Amalia,Femenino,Medellín,Ingeniería,Docente,"$3,200,000 ",12/09/1987,11/10/1961
+1012,Duque,Julian,Masculino,Medellín,Ingeniería,Docente,"$2,400,000 ",26/01/1986,2/12/1964
+1301,Muñoz,Maritza,Femenino,Medellín,Ingeniería,Docente,"$3,200,000 ",9/01/1986,28/09/1955
+1556,Peláez,Andrés,Masculino,Medellín,Ingeniería,Docente,"$3,200,000 ",26/11/1981,11/09/1965
+1933,Sanchez,Miguel,Masculino,Medellín,Ingeniería,Docente,"$3,200,000 ",8/01/1984,12/06/1949
+1333,Cano,Carolina,Femenino,Medellín,Ingeniería,Docente,"$3,200,000 ",16/04/1990,7/10/1965
+1510,Marquez,Jessica,Masculino,Medellín,Ingeniería,Docente,"$4,800,000 ",11/06/1985,4/11/1962
+1574,Rico,Samuel,Masculino,Medellín,Ingeniería,Docente,"$3,200,000 ",9/02/1986,4/06/1960
+1360,Mendez,Gustavo,Masculino,Medellín,Ingeniería,Docente,"$4,000,000 ",1/08/1988,18/06/1960
+1293,Jimenez,Karina,Femenino,Medellín,Ingeniería,Técnico,"$1,700,000 ",14/09/1984,25/08/1954
+1329,Osorio,Julieth,Femenino,Medellín,Medicina,Docente,"$3,500,000 ",22/02/1989,6/05/1964
+1572,Villamizar,Lina,Femenino,Medellín,Medicina,Docente,"$3,600,000 ",15/07/1988,20/05/1960
+1300,Gomez,Carlos,Masculino,Medellín,Medicina,Administrativo,"$2,300,000 ",13/12/1989,24/09/1965
+1557,Gracía,Simón,Masculino,Medellín,Medicina,Aux. Administrativo,"$1,390,000 ",18/11/1981,22/09/1965
+1169,Castro,Monica,Femenino,Medellín,Medicina,Administrativo,"$5,700,000 ",13/10/1992,12/07/1970
+1758,Uribe,Melisa,Femenino,Medellín,Medicina,Técnico,"$1,900,000 ",18/03/1982,23/10/1962
+1310,Florez,Alejandra,Femenino,Medellín,Medicina,Técnico,"$1,350,000 ",4/10/1986,2/11/1964
+1041,Gutierrez,Amalia,Femenino,Medellín,Medicina,Docente,"$4,900,000 ",16/04/1992,25/01/1965
+1361,Medina,Raquel,Femenino,Medellín,Medicina,Docente,"$2,940,000 ",22/07/1988,22/06/1960
+1793,Betancur,Gonzalo,Masculino,Bucaramanga,Administración,Docente,"$1,350,000 ",16/12/1990,14/10/1968
+1967,Betancurt,Santiago,Masculino,Bucaramanga,Administración,Aux. Administrativo,"$1,350,000 ",9/11/1991,15/05/1969
+1725,Marquez,Isabella,Femenino,Bucaramanga,Administración,Administrativo,"$5,600,000 ",12/02/1978,26/05/1955
+1969,Molina,Karla,Femenino,Bucaramanga,Administración,Aux. Técnico,"$980,000 ",14/04/1989,2/10/1951
+1962,Rodriguez,Hilda,Femenino,Bucaramanga,Administración,Docente,"$2,900,000 ",22/10/1987,6/04/1945
+1967,Hincapie,Victoria,Femenino,Bucaramanga,Administración,Docente,"$4,600,000 ",13/04/1982,17/09/1951
+1426,Rojas ,Pablo,Masculino,Bucaramanga,Administración,Docente,"$5,600,000 ",8/09/1977,9/03/1968
+1509,Serna,Pamela,Femenino,Bucaramanga,Ingeniería,Aux. Administrativo,"$1,350,000 ",19/06/1985,24/10/1962
+1673,Zapata,Stepania,Femenino,Bucaramanga,Ingeniería,Docente,"$1,350,000 ",16/04/1990,1/09/1962
+1352,Toro,Manuel,Masculino,Bucaramanga,Ingeniería,Docente,"$1,980,000 ",18/09/1982,22/07/1958
+1922,Henao,Barbara,Femenino,Bucaramanga,Ingeniería,Docente,"$2,100,000 ",5/12/1986,24/02/1961
+1518,Vasquez,Leonardo,Masculino,Bucaramanga,Ingeniería,Docente,"$2,600,000 ",18/06/1990,11/07/1963
+1331,Castrillón,Juliana,Femenino,Bucaramanga,Ingeniería,Docente,"$3,100,000 ",11/05/1989,21/05/1964
+1303,Lopez,Dinara,Femenino,Bucaramanga,Ingeniería,Administrativo,"$5,600,000 ",3/03/1988,10/07/1955
+1302,Mota,Elisa,Femenino,Bucaramanga,Ingeniería,Docente,"$3,800,000 ",29/07/1984,6/07/1955
+1334,Perez,Alicia,Femenino,Bucaramanga,Ingeniería,Aux. Administrativo,"$1,350,000 ",8/04/1990,18/10/1965
+1975,Posada,Carlos,Masculino,Bogotá,Derecho,Docente,"$3,200,000 ",7/05/1991,28/09/1970
+1759,Arango,Mauricio,Masculino,Bogotá,Derecho,Docente,"$4,700,000 ",10/03/1982,3/11/1962
+1055,Hoyos,Adriana,Femenino,Bogotá,Derecho,Docente,"$3,200,000 ",8/04/1991,20/08/1967
+1054,Suarez,Miguel,Masculino,Bogotá,Derecho,Docente investigador,"$4,100,000 ",16/04/1991,9/08/1967
+1075,Aristizabal,Natalia,Femenino,Bogotá,Derecho,Docente investigador,"$3,200,000 ",7/08/1992,28/08/1969
+1966,Dominguez ,Camila,Femenino,Bogotá,Derecho,Docente investigador,"$3,900,000 ",17/11/1991,4/05/1969
+1354,Ruiz,Susana,Femenino,Bogotá,Derecho,Administrativo,"$3,200,000 ",6/05/1986,6/08/1948
+1696,Higuita,Cathy,Femenino,Bogotá,Derecho,Docente,"$3,200,000 ",12/10/1984,16/01/1940
+1299,Osorio,Catalina,Femenino,Bogotá,Derecho,Docente,"$3,200,000 ",21/12/1989,13/09/1965
+1529,Gomez,Mariana,Femenino,Bogotá,Publicidad,Docente,"$3,200,000 ",28/01/1987,4/01/1967
+1080,Bustos,Jacobo,Masculino,Bogotá,Publicidad,Docente investigador,"$3,700,000 ",29/10/1988,6/12/1952
+1353,Rodas,Gabriel,Masculino,Bogotá,Publicidad,Docente investigador,"$3,600,000 ",10/09/1982,2/08/1958
+1369,Cano,Sandra,Femenino,Bogotá,Publicidad,Administrativo,"$4,200,000 ",3/03/1983,19/05/1959
+1370,Diaz ,Evelyn,Femenino,Bogotá,Publicidad,Docente investigador,"$3,600,000 ",27/11/1987,23/05/1959
+1677,Hernandez ,Juan,Masculino,Bogotá,Publicidad,Docente investigador,"$3,700,000 ",6/11/1987,16/09/1969
+1427,Jaramillo,David,Masculino,Bogotá,Publicidad,Docente investigador,"$3,400,000 ",31/08/1977,19/03/1958
